@@ -1,0 +1,6 @@
+2024-09-24T21:40:16.297568: KI304.Fedyna.Lab3.MotorBoat created with name: Speedy
+2024-09-24T21:40:16.317755: Moved 50.0 km. Remaining fuel: 95.0
+2024-09-24T21:40:16.318125: Turned left.
+2024-09-24T21:40:16.318512: Refueled 20.0 liters. Current fuel level: 100.0
+2024-09-24T21:40:16.318633: Moved 150.0 km. Remaining fuel: 85.0
+2024-09-24T21:40:16.318763: Turned right.

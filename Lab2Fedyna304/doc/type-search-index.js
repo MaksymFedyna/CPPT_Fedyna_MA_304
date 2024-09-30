@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Fedyna.Lab2","l":"Hull"},{"p":"KI304.Fedyna.Lab2","l":"Oars"},{"p":"KI304.Fedyna.Lab2","l":"RowingBoat"},{"p":"KI304.Fedyna.Lab2","l":"RowingBoatApp"},{"p":"KI304.Fedyna.Lab2","l":"Seats"}];updateSearchResults();

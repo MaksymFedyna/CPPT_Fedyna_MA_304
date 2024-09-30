@@ -1,0 +1,6 @@
+2024.09.24_22:27:35 - Rowing boat created with wooden hull and 4 seats.
+2024.09.24_22:27:45 - Rowing started at speed: 10 km/h in direction: Stationary
+2024.09.24_22:28:51 - Direction changed to: north
+2024.09.24_22:29:00 - Hull material changed to: wood
+2024.09.24_22:29:08 - Seats rearranged. New seat count: 8
+2024.09.24_22:29:21 - Traveled distance: 7.0 km. Total distance: 7.0 km.
